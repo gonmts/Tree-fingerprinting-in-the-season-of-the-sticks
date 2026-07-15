@@ -1,6 +1,6 @@
 # Tree fingerprinting in the “season of the sticks”: mapping and visual localisation in orchards
 
-![[./img/teaser.png]]
+![teaser image](./img/teaser.png)
 
 
 This page contains the supplemental material associated to the paper with the same name, by Gonçalo P. Matos, José Ramos da Silva, Carlos Santiago, João P. Costeira, Ricardo L. Saldanha and Ernesto M. Morgado.
@@ -22,7 +22,7 @@ We show that our method can re-identify the same trees and branches later in the
 
 # Video
 
-[![Watch the video](.img/video-snapshot.png)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/BtcdY7qCR5Y8oon)
+[![Watch the video](./img/video-snapshot.png)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/BtcdY7qCR5Y8oon)
 
 # Dataset
 

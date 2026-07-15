@@ -22,7 +22,7 @@ We show that our method can re-identify the same trees and branches later in the
 
 # Video
 
-[![Watch the video](./img/video-snapshot.png)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/BtcdY7qCR5Y8oon)
+[![Watch the video](./img/video-thumbnail.png)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/BtcdY7qCR5Y8oon)
 
 # Dataset
 

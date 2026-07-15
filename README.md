@@ -26,7 +26,7 @@ We show that our method can re-identify the same trees and branches later in the
 
 # Dataset
 
-The public dataset is available for [browsing](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/xPnsW9X6EbBzW2L) or [direct link](https://anubis-sipg.isr.tecnico.ulisboa.pt/public.php/dav/files/yd9TZ4CxfN8AWQ4/?accept=zip).
+The public dataset is available for [browsing](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/xPnsW9X6EbBzW2L) or [direct link](https://anubis-sipg.isr.tecnico.ulisboa.pt/public.php/dav/files/yd9TZ4CxfN8AWQ4/?accept=zip) (~14GB).
 
 
 # Cite

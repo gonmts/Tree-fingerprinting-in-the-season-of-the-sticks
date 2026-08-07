@@ -26,7 +26,16 @@ We show that our method can re-identify the same trees and branches later in the
 
 # Dataset
 
-The public dataset is available for [browsing](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/xPnsW9X6EbBzW2L) or [direct link](https://anubis-sipg.isr.tecnico.ulisboa.pt/public.php/dav/files/yd9TZ4CxfN8AWQ4/?accept=zip) (~14GB).
+The dataset is available for [browsing](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/xPnsW9X6EbBzW2L) or [direct link](https://anubis-sipg.isr.tecnico.ulisboa.pt/public.php/dav/files/yd9TZ4CxfN8AWQ4/?accept=zip) (~20GB).
+
+
+This dataset contains both real-world and synthetically generated videos.
+
+Real-world videos cover several phenological stages of the same row of apple trees, approximately 15m long with 14 trees of the same species, throughout the year of 2025. 
+These were collected in an apple orchard owned by [Instituto Nacional de Investigação Agrária e Veterinária (INIAV)](https://iniav.pt/), in Alcobaça, Portugal, handling a ZED 2i stereo camera while walking on foot, parallel to the row of trees and facing them at a distance of approximately 1.5m.
+
+Synthetic videos were generated using the 3D modelling and animation software Blender and depict a set of 5 trees without leaves or fruits, shot with an approximately linear trajectory, but with different camera angles and starting positions.
+
 
 
 # Cite
@@ -41,5 +50,6 @@ If you use this work or its dataset in your research, please cite:
   pages={0--0},
   year={2026}
 }
-
 ```
+
+and also acknowledge to Instituto Nacional de Investigação Agrária e Veterinária, I.P. (https://iniav.pt/).

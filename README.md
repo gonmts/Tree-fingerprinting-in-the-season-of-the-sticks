@@ -51,7 +51,7 @@ If you use this work or its dataset in your research, please cite:
   year={2026}
 }
 
-@article{MATOS2027112581,
+@article{matos2026stari,
 title = {How to rewrite the stars: Mapping your orchard over time through constellations of fruits},
 journal = {Computers and Electronics in Agriculture},
 volume = {257},

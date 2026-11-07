@@ -50,6 +50,18 @@ If you use this work or its dataset in your research, please cite:
   pages={0--0},
   year={2026}
 }
+
+@article{MATOS2027112581,
+title = {How to rewrite the stars: Mapping your orchard over time through constellations of fruits},
+journal = {Computers and Electronics in Agriculture},
+volume = {257},
+pages = {112581},
+year = {2027},
+issn = {0168-1699},
+doi = {https://doi.org/10.1016/j.compag.2026.112581},
+url = {https://www.sciencedirect.com/science/article/pii/S0168169926011798},
+author = {Gonçalo P. Matos and Carlos Santiago and João P. Costeira and Ricardo L. Saldanha and Ernesto M. Morgado}
+}
 ```
 
 and also acknowledge to Instituto Nacional de Investigação Agrária e Veterinária, I.P. (https://iniav.pt/).

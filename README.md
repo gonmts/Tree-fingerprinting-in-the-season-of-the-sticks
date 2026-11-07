@@ -43,7 +43,7 @@ Synthetic videos were generated using the 3D modelling and animation software Bl
 If you use this work or its dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{matos2026,
+@inproceedings{matos2026sticks,
   title={Tree fingerprinting in the ``season of the sticks'': mapping and visual localisation in orchards},
   author={Matos, Gon\c{c}alo P and Silva, José Ramos and Santiago, Carlos and Costeira, João P. and Saldanha, Ricardo L. and Morgado, Ernesto M.},
   booktitle={Computer Vision--ECCV 2024 Workshop},
